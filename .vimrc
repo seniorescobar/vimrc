@@ -17,7 +17,3 @@ call plug#end()
 
 " vim-go
 let g:go_fmt_command = "goimports"
-
-" disable <PageUp> and <PageDown>
-nnoremap <PageUp> :echo "No \<PageUp\> for you!"<CR>
-nnoremap <PageDown> :echo "No \<PageDown\> for you!"<CR>
