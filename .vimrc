@@ -6,7 +6,6 @@ set shiftwidth=4 " affects what happens when you press >>, << or ==
 set expandtab " insert space characters whenever the tab key is pressed
 set tabstop=4
 set ttimeoutlen=10
-set nowrap
 
 " plug
 call plug#begin()
