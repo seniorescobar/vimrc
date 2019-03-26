@@ -18,3 +18,6 @@ call plug#end()
 
 " vim-go
 let g:go_fmt_command = "goimports"
+
+" remap
+nnoremap <C-P> :Files<CR>
