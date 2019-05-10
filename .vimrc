@@ -11,7 +11,7 @@ set nowrap
 " plug
 call plug#begin()
 Plug 'fatih/vim-go'
-Plug '/usr/bin/fzf'
+Plug '/usr/local/opt/fzf'
 Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-commentary'
 call plug#end()
